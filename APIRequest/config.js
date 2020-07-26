@@ -4,7 +4,7 @@ const config = {
     request: {
         symbol: 'LTCBTC',
         interval: '1h',
-        limit: 3
+        limit: 50
     }
 }
 

@@ -1,6 +1,9 @@
 const graphic = {
-    width: 2000,
-    height: 1000
+    graphicWidth: 2000,
+    graphicHeight: 1000,
+    candleWidth: 6,
+    candleSpace: 10,
+    drawingSize: 0.8
 }
 
 export default graphic
